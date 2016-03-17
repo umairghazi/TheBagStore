@@ -104,6 +104,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
+INSERT INTO `users` VALUES (24,'Umair','Ghazi','admin@admin.com','d033e22ae348aeb5660fc2140aec35850c4da997','admin'),(25,'Best','User','user@user.com','12dea96fec20593566ab75692c9949596833adc9','user'),(23,'Umair','Ghazi','umairghazi@gmail.com','7110eda4d09e062aa5e4a390b0a572ac0d2c0220','user');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

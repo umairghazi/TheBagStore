@@ -1,7 +1,7 @@
 <?php
 
 	$host = "localhost";
-$user = "";
-$pass = "";
-$db = "";
+$user = "ug7856";
+$pass = "fr1end";
+$db = "ug7856";
 ?>
