@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="766cb91f-20a9-4971-bab2-dd9bcffe6897" name="Kelvin" url="http://kelvin.ist.rit.edu">
+        <fileTransfer host="kelvin.ist.rit.edu" port="22" rootFolder="/home/ug7856/Sites/756/Project1" accessType="SFTP" username="ug7856">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
